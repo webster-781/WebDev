@@ -1,0 +1,72 @@
+body {
+  font-family: Tahoma;
+  /*background-attachment: fixed;
+  background-image:url('https://media.istockphoto.com/photos/high-resolution-background-of-water-surface-picture-id626785644');
+  background-repeat: no-repeat;
+  background-size: cover;*/
+  backgroun-
+}
+
+header {
+  background-color: #EC576B;
+  color: white;
+  text-align:center;
+  line-height: 2;
+  border-bottom: 5px #FEDC3D solid;
+}
+
+header h1 {
+  width:50%;
+  margin: auto;
+  text-align:center;
+  height:75px;
+  border-bottom: 2px #FFFFFF solid;
+}
+
+header p {
+  height:50px;
+  line-height: 1;
+  border-bottom: 2px #FFFFFF solid;
+}
+
+section {
+  width:75%;
+  max-width: 500px;
+  background-color: #FEDC3D;
+  margin:0 auto;
+}
+
+h2 {
+  margin:0 auto;
+  width:30%;
+  border-bottom: 5px #000000 solid;
+}
+
+article {
+  width:40%;
+  text-align: justify;
+  margin:50px;
+  padding-top: 10px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:30px; 
+  background-color: #FFFFFF;
+}
+
+#leftP {
+
+}
+
+#rightP {
+
+}
+
+h3 {
+  text-align: right;
+}
+
+footer {
+  background-color: #4EC5C1;
+  border-top: 5px #FEDC3D solid;
+  color: white;
+}
